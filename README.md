@@ -9,6 +9,14 @@
 </p>
 
 
+
+
+
+<div align="center">
+<img src="main.png" width="600px" >
+</div>
+
+
 برای نصب دستور زیر را در هر دو سرور وارد کنید 
 
 
