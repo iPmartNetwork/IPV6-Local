@@ -1,3 +1,7 @@
+#!/bin/bash
+apt update
+sudo apt install iptables -y
+
 6to4_ipv6() {
     clear
     prepration_ipv6
